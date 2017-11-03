@@ -8,6 +8,12 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2017-11-03 17:22 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * ejemplos\ChangeLog.txt
+     * Updated.
+   * ejemplos\http\e001.prg
+     - Unneeded code.
+
 2017-10-17 18:06 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    - leeme.txt
    + README.md
