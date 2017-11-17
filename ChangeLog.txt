@@ -8,6 +8,12 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2017-11-17 20:49 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * ejemplos\ChangeLog.txt
+     * Updated.
+   * ejemplos\splitbox\e001.prg
+     * Reference to sourceforge changed to github.
+
 2017-11-03 17:22 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * ejemplos\ChangeLog.txt
      * Updated.
