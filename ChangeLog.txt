@@ -8,6 +8,13 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-01-12 20:10 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * ejemplos\ChangeLog.txt
+     * Updated.
+   * ejemplos\bostaurus\e013.bat
+   * ejemplos\zebra\e001.bat
+     * Use HG_ROOT instead of hardwired path.
+
 2017-11-17 20:49 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * ejemplos\ChangeLog.txt
      * Updated.
