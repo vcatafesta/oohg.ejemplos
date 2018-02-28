@@ -8,6 +8,12 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-02-28 18:37 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   + ejemplos\richeditbox\e001.prg
+     ! No funcionaba correctamente.
+   + ejemplos\richeditbox\e003.prg
+     * Como cambiar los colores del texto seleccionado.
+
 2018-01-12 20:10 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * ejemplos\ChangeLog.txt
      * Updated.

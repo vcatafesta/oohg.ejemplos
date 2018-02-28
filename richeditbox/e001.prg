@@ -10,8 +10,7 @@
  * SetSelectionBackColor, GetLineIndex y GetLineLength y el
  * evento OnSelChange.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
  */
 
 #include "oohg.ch"
@@ -24,7 +23,7 @@ FUNCTION Main
       AT 0,0 ;
       WIDTH 600 ;
       HEIGHT 400 ;
-      TITLE 'OOHG - Destacar Línea en Control Richedit'
+      TITLE 'OOHG - Destacar Línea Actual en Control Richedit'
 
       ON KEY ESCAPE ACTION oWnd:Release()
 
@@ -40,39 +39,36 @@ FUNCTION Main
    ownd:Center()
    ownd:Activate()
 
-RETURN Nil
+RETURN NIL
+
 
 FUNCTION Destacar( oRch )
 
    LOCAL aPos, aColor, nCurrent
    STATIC nPrevious := -1
 
-   // Previene el cambio del formato por defecto
-   IF EMPTY( oRch:Value )
-      RETURN Nil
+   IF Empty( oRch:Value )
+      RETURN NIL
    ENDIF
 
-   // Si se cambia el color una segunda vez,
-   // la línea será pintada con el color por defecto
    nCurrent := oRch:GetCurrentLine()
    IF nCurrent == nPrevious
-      RETURN Nil
+      RETURN NIL
    ENDIF
-   nPrevious := nCurrent
 
-   // Guardar la selección actual
+   // Guardar la selección actual: [ índice del caracter inicial, número de caracteres ]
    aPos := oRch:GetSelection()
 
-   // Seleccionar todo el texto
-   oRch:SetSelection( 0, -1 )
+   IF nPrevious # -1
+      // Seleccionar todo el texto de la línea previamente seleccionada
+      oRch:SetSelection( oRch:GetLineIndex( nPrevious ), oRch:GetLineIndex( nPrevious ) + oRch:GetLineLength( nPrevious ) )
 
-   // Restaurar los colores por defecto
-   // Si FontColor es Nil se asume COLOR_WINDOWTEXT
-   // Si BackColor es Nil se asume COLOR_WINDOW
-    oRch:SetSelectionTextColor( oRch:FontColor )
-    oRch:SetSelectionBackColor( oRch:BackColor )
+      // Restaurar los colores
+      oRch:SetSelectionTextColor( oRch:FontColor )
+      oRch:SetSelectionBackColor( oRch:BackColor )
+   ENDIF
 
-   // Seleccionar la línea corriente
+   // Seleccionar todo el texto en la primera línea de la selección (la línea donde se encuentra el cursor)
    oRch:SetSelection( oRch:GetLineIndex( nCurrent ), oRch:GetLineIndex( nCurrent ) + oRch:GetLineLength( nCurrent ) )
 
    // Cambiar los colores
@@ -82,7 +78,9 @@ FUNCTION Destacar( oRch )
    // Restaurar la selección
    oRch:SetSelection( aPos[ 1 ], aPos[ 2 ] )
 
-RETURN Nil
+   nPrevious := nCurrent
+
+RETURN NIL
 
 /*
  * EOF
