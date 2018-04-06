@@ -9,8 +9,8 @@
  *
  * Basado en un ejemplo de HMG Extended aportado por Janusz Pora.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "minigui.ch"

@@ -10,8 +10,8 @@
  * Este ejemplo muestra cómo obtener el ancho y alto de
  * una imagen utilizando un control IMAGE.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "oohg.ch"

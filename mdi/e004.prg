@@ -7,11 +7,11 @@
  * Este ejemplo muestra cómo colocar una imagen en el fondo del
  * área cliente de la ventana principal de una aplicación MDI.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  *
  * La imagen fondo.jpg puede descargarse desde
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/Mdi
+ * https://github.com/oohg/ejemplos/tree/master/Mdi
  */
 
 #include "oohg.ch"

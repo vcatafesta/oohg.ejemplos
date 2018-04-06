@@ -7,8 +7,8 @@
  * Este ejemplo muestra cómo editar un Grid sin utilizar el
  * teclado para aceptar o cancelar el ingreso de datos.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "oohg.ch"

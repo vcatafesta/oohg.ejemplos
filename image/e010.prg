@@ -7,11 +7,11 @@
  * Este ejemplo muestra cómo utilizar un control IMAGE para
  * imprimir una imagen cargada desde el archivo de recursos.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  *
  * Los archivos oohg.jpg y s010.rc pueden descargarse desde:
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/Image
+ * https://github.com/oohg/ejemplos/tree/master/Image
  */
 
 #include "oohg.ch"

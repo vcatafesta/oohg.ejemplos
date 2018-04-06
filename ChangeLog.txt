@@ -8,6 +8,13 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-04-06 19:39 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * ejemplos\ChangeLog.txt
+     * Updated.
+   * Almost all files
+     - References to wiki.
+     - References to private repository.
+
 2018-02-28 18:37 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    + ejemplos\richeditbox\e001.prg
      ! No funcionaba correctamente.

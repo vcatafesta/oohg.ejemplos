@@ -11,8 +11,8 @@
  * que pueden ser 'editadas' (se pueden remplazar por cualquier
  * imagen de la lista de imágenes asociada al Grid).
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include 'oohg.ch'

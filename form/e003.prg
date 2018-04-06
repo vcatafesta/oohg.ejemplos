@@ -8,8 +8,8 @@
  * automáticamente los controles de un formulario cada vez que se
  * modifica el tamaño del mismo.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include 'oohg.ch'

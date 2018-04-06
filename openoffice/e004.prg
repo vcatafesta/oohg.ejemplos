@@ -7,8 +7,8 @@
  * Este ejemplo muestra cómo copiar y mover hojas de un
  * libro de OpenOffice Calc.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include 'oohg.ch'

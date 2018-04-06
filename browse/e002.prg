@@ -12,8 +12,8 @@
  * posterior el borrado de un registro. También ilustra como
  * crear y agregar registros a una dbf en tiempo de ejecución.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "oohg.ch"

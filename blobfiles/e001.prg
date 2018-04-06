@@ -7,11 +7,11 @@
  * Este ejemplo muestra cómo guardar/leer una imagen en/desde
  * un campo BLOB y cómo mostrarla usando un control IMAGE.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  *
  * El archivo Input.ico puede descargarse desde:
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/BlobFiles
+ * https://github.com/oohg/ejemplos/tree/master/BlobFiles
  */
 
 #include "oohg.ch"

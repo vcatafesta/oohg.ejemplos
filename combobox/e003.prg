@@ -7,8 +7,8 @@
  * Este ejemplo muestra coo cambiar un item en un control
  * Combobox con la claúsula SORT.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "oohg.ch"

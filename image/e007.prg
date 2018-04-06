@@ -9,8 +9,8 @@
  * y Blend. Dese por avisado que bajo XP el flicker es horrible.
  * Vea en el Changelog la nota relacionada.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "oohg.ch"

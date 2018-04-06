@@ -7,8 +7,8 @@
  * Este ejemplo muestra cómo ordenar los items de un grid
  * de acuerdo a un cierto criterio.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include 'oohg.ch'

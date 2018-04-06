@@ -8,11 +8,11 @@
  * WINDRAW, BACKCOLOR, BACKGROUND y TRANSPARENT del control
  * RadioGroup.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  *
  * El archivo fondo.bmp puede descargarse desde:
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/RadioGroup
+ * https://github.com/oohg/ejemplos/tree/master/RadioGroup
  */
 
 #include "oohg.ch"

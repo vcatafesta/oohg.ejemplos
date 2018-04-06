@@ -7,8 +7,8 @@
  * Este ejemplo muestra cómo colocar un control Image sobre
  * otro, cado uno con su propio ON CLICK y TOOLTIP.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include 'oohg.ch'

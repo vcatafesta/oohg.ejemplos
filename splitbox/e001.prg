@@ -10,8 +10,8 @@
  * También muestra cómo averiguar si una banda es visible y
  * si tien un gripper.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include 'oohg.ch'
@@ -40,9 +40,9 @@ Function Main()
          COMBOBOX cmb_Address ;
             FONT "Arial" SIZE 9 ;
             ITEMS {"http://www.oohg.org", ;
-                   "http://oohg.wikia.com", ;
+                   "https://harbour.github.io/", ;
                    "https://oohg.github.io/"} ;
-            VALUE 1 ;
+            VALUE 3 ;
             ON ENTER Action() ;
             DISPLAYEDIT
 

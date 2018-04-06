@@ -10,11 +10,11 @@
  * cómo definir dinámicamente el área excluida utilizando
  * la DATA aExcludeArea.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  *
  * El archivo img1.bmp puede descargarse desde:
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/Image
+ * https://github.com/oohg/ejemplos/tree/master/Image
  */
 
 #include 'oohg.ch'

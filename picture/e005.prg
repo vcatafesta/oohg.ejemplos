@@ -11,11 +11,11 @@
  * por favor envíeme un pequeño ejemplo y trataré de
  * solucionar el problema.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  *
  * El archivo oohg.gif puede descargarse desde:
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/Picture
+ * https://github.com/oohg/ejemplos/tree/master/Picture
  */
 
 #include "oohg.ch"

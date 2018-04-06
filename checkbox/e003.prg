@@ -8,7 +8,7 @@
  * sobre un control image.
  *
  * El archivo fondo.jpg puede descargarse desde:
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/Checkbox
+ * https://github.com/oohg/ejemplos/tree/master/Checkbox
  */
 
 #include "oohg.ch"

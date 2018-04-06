@@ -6,11 +6,11 @@
  *
  * Este ejemplo muestra cómo agregar imágenes a un listbox.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  *
  * Puede descargar las imágenes utilizadas en este ejemplo desde
- * https://github.com/fyurisich/OOHG_Samples/tree/master/Español/Ejemplos/ListBox
+ * https://github.com/oohg/ejemplos/tree/master/ListBox
  */
 
 #include "oohg.ch"

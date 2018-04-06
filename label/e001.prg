@@ -8,8 +8,8 @@
  * mouse pasa sobre un LABEL, y cómo definir una acción
  * para que se ejecute al cliquear en el LABEL.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "oohg.ch"

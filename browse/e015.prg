@@ -9,8 +9,8 @@
  * mostrar columnas computadas de solo lectura mientras
  * la ocurre la edición de una fila.
  *
- * Visítenos en https://github.com/fyurisich/OOHG_Samples o en
- * http://oohg.wikia.com/wiki/Object_Oriented_Harbour_GUI_Wiki
+ * Visítenos en https://github.com/oohg/ejemplos
+ *
  */
 
 #include "oohg.ch"
