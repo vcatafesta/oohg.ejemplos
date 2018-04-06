@@ -6,7 +6,6 @@
  *
  * Basado en una contribución original de
  * Cayetano Gómez <cayetano.gomez@gmail.com>
- * publicada por primera vez en <oohg@yahoogroups.com>
  *
  * Este ejemplo muestra cómo colocar una Toolbar al pie de un
  * formulario que, además, tiene una Statusbar al pie.
